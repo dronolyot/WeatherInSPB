@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Погода в Санкт-Петербурге</string>
+    <string name="hello_blank_fragment">Пустой фрагмент</string>
+    <string name="update_weather">Обновить погоду</string>
+    <string name="updateResult" translatable="false">Погода обновлена.</string>
+    <string name="inet_connection_prompt">Нет доступа в интернет</string>
+</resources>
